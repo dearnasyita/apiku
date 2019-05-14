@@ -1,0 +1,151 @@
+{"products:[{
+  "id": 1,
+  "product_name": "Curry Powder Madras",
+  "price": "Euro",
+  "stock": 77
+}, {
+  "id": 2,
+  "product_name": "Lid - 3oz Med Rec",
+  "price": "Ruble",
+  "stock": 79
+}, {
+  "id": 3,
+  "product_name": "Food Colouring - Orange",
+  "price": "Real",
+  "stock": 67
+}, {
+  "id": 4,
+  "product_name": "Nacho Chips",
+  "price": "Yuan Renminbi",
+  "stock": 60
+}, {
+  "id": 5,
+  "product_name": "Hog / Sausage Casing - Pork",
+  "price": "Rupiah",
+  "stock": 33
+}, {
+  "id": 6,
+  "product_name": "Graham Cracker Mix",
+  "price": "Leone",
+  "stock": 8
+}, {
+  "id": 7,
+  "product_name": "Dawn Professionl Pot And Pan",
+  "price": "Lek",
+  "stock": 49
+}, {
+  "id": 8,
+  "product_name": "Sauce - Vodka Blush",
+  "price": "Marka",
+  "stock": 54
+}, {
+  "id": 9,
+  "product_name": "Crab - Blue, Frozen",
+  "price": "Kuna",
+  "stock": 58
+}, {
+  "id": 10,
+  "product_name": "Tuna - Loin",
+  "price": "Ruble",
+  "stock": 100
+}, {
+  "id": 11,
+  "product_name": "Cookie Chocolate Chip With",
+  "price": "Zloty",
+  "stock": 13
+}, {
+  "id": 12,
+  "product_name": "Juice - Clamato, 341 Ml",
+  "price": "Peso",
+  "stock": 59
+}, {
+  "id": 13,
+  "product_name": "Oysters - Smoked",
+  "price": "Euro",
+  "stock": 38
+}, {
+  "id": 14,
+  "product_name": "Yogurt - Strawberry, 175 Gr",
+  "price": "Franc",
+  "stock": 23
+}, {
+  "id": 15,
+  "product_name": "Tomato - Tricolor Cherry",
+  "price": "Koruna",
+  "stock": 84
+}, {
+  "id": 16,
+  "product_name": "Olive - Spread Tapenade",
+  "price": "Dinar",
+  "stock": 33
+}, {
+  "id": 17,
+  "product_name": "Peas - Pigeon, Dry",
+  "price": "Dollar",
+  "stock": 46
+}, {
+  "id": 18,
+  "product_name": "Baking Soda",
+  "price": "Euro",
+  "stock": 66
+}, {
+  "id": 19,
+  "product_name": "Ginger - Pickled",
+  "price": "Dirham",
+  "stock": 96
+}, {
+  "id": 20,
+  "product_name": "Oats Large Flake",
+  "price": "Lev",
+  "stock": 15
+}, {
+  "id": 21,
+  "product_name": "Sauce - Mint",
+  "price": "Rupiah",
+  "stock": 87
+}, {
+  "id": 22,
+  "product_name": "Corn Kernels - Frozen",
+  "price": "Euro",
+  "stock": 6
+}, {
+  "id": 23,
+  "product_name": "Pastry - Plain Baked Croissant",
+  "price": "Peso",
+  "stock": 27
+}, {
+  "id": 24,
+  "product_name": "Octopus",
+  "price": "Peso",
+  "stock": 23
+}, {
+  "id": 25,
+  "product_name": "Pepper - Sorrano",
+  "price": "Yen",
+  "stock": 62
+}, {
+  "id": 26,
+  "product_name": "Pastry - Choclate Baked",
+  "price": "Real",
+  "stock": 37
+}, {
+  "id": 27,
+  "product_name": "Knife Plastic - White",
+  "price": "Rupiah",
+  "stock": 93
+}, {
+  "id": 28,
+  "product_name": "Gherkin - Sour",
+  "price": "Kwacha",
+  "stock": 74
+}, {
+  "id": 29,
+  "product_name": "Lemon Tarts",
+  "price": "Baht",
+  "stock": 89
+}, {
+  "id": 30,
+  "product_name": "Bread - Roll, Calabrese",
+  "price": "Hryvnia",
+  "stock": 64
+}]"}
